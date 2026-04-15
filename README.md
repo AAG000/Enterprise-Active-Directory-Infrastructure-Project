@@ -139,31 +139,10 @@ Common issues covered:
 * Login failures → DNS misconfiguration
 * Permission issues → NTFS vs Share mismatch
 
-More details in `/docs/troubleshooting.md`
 
 ---
 
-## 📸 Screenshots
 
-This section should include proof of implementation:
-
-* Active Directory structure
-* GPO configuration
-* File server permissions
-* DHCP & DNS setup
-
----
-
-## 📁 Project Structure
-
-```
-architecture/   → Diagrams and design files
-docs/           → Detailed documentation
-scripts/        → PowerShell automation
-screenshots/    → Implementation proof
-```
-
----
 
 ## 🎯 Key Skills Demonstrated
 
@@ -176,19 +155,3 @@ screenshots/    → Implementation proof
 
 ---
 
-## 📌 Notes
-
-* This project is designed for CV and interview demonstration
-* Follows enterprise best practices
-* Can be extended with Azure AD or hybrid cloud integration
-
----
-
-## ⭐ Author
-
-Abdullah Ali
-DevOps & System Engineer
-
-* This project is designed for CV and interviews
-* Follow best practices
-* Document everything with screenshots
