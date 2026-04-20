@@ -1,6 +1,6 @@
-# 🚀 Enterprise Active Directory Infrastructure Design & Implementation
+#  Enterprise Active Directory Infrastructure Design & Implementation
 
-## 📌 Overview
+##  Overview
 
 This project simulates a real-world enterprise IT environment using Microsoft Active Directory and Windows Server technologies. It demonstrates how to design, deploy, and secure a scalable infrastructure for a multi-branch organization.
 
@@ -8,7 +8,7 @@ The implementation follows industry best practices for identity management, acce
 
 ---
 
-## 🏢 Business Scenario
+##  Business Scenario
 
 A company named **TechCorp Solutions** operates a headquarters (HQ) and two branch offices. The organization requires:
 
@@ -22,7 +22,7 @@ This project addresses all these requirements using Active Directory and support
 
 ---
 
-## 🏗️ Architecture Summary
+##  Architecture Summary
 
 * **Domain:** techcorp.local
 
